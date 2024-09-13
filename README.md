@@ -8,7 +8,7 @@
 
 ## 💻 Obfuscate-Review:
 <p float="left">
-  <img alt="screen" width="700" src="obfuscate_review.png">
+  <img alt="screen" width="700" src="obfuscator_banner.png">
 </p> 
 
 ### 🖥️ Example Usage
@@ -43,4 +43,4 @@
 ## ✨ Requirements
 `You need a dnlib for compiling this project and 4.0 framework ⚠️ `
 
-### > **[Download compiled-version]()**
+### > **[Download compiled-version](https://github.com/K3rnel-Dev/SimpleObfuscator-Library/releases/tag/Builds)**
