@@ -8,7 +8,7 @@
 
 ## 💻 Obfuscate-Review:
 <p float="left">
-  <img alt="screen" width="700" src="obfuscator_banner.png">
+  <img alt="screen" width="2000" src="obfuscator_banner.png">
 </p> 
 
 ### 🖥️ Example Usage
